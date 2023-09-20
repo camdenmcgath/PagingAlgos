@@ -1,0 +1,17 @@
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\bin\Debug\net7.0-windows\PagingAlgos.exe
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\bin\Debug\net7.0-windows\PagingAlgos.deps.json
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\bin\Debug\net7.0-windows\PagingAlgos.runtimeconfig.json
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\bin\Debug\net7.0-windows\PagingAlgos.dll
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\bin\Debug\net7.0-windows\PagingAlgos.pdb
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.csproj.AssemblyReference.cache
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.Form1.resources
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.csproj.GenerateResource.cache
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.AssemblyInfoInputs.cache
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.AssemblyInfo.cs
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.csproj.CoreCompileInputs.cache
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.dll
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\refint\PagingAlgos.dll
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.pdb
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\PagingAlgos.genruntimeconfig.cache
+C:\Users\clm29\source\repos\COMP-3430\MemoryPaging\PagingAlgos\PagingAlgos\obj\Debug\net7.0-windows\ref\PagingAlgos.dll
